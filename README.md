@@ -1,12 +1,10 @@
-## 👨🏽‍💻 Mario Guilherme
+<!-- Perfil -->
+<h2>👨🏽‍💻 Mario Guilherme</h2>
+<p><strong>`Estudante de Java`</strong></p>
+<p>Me chamo Mario Guilherme, tenho 22 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UVA (Universidade Veiga de Almeida). Sou apaixonado por tecnologia e por todos os seus usos nos âmbitos pessoal e profissional. Estou em busca de conhecimento e aprendizado, então seja bem-vindo ao meu GitHub!</p>
 
-**`Estudante de Java`**
-
-Me chamo Mario Guilherme, tenho 22 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UVA (Universidade Veiga de Almeida). Sou apaixonado por tecnologia e por todos os seus usos nos âmbitos pessoal e profissional. Estou em busca de conhecimento e aprendizado, então seja bem-vindo ao meu GitHub!
-
-
-Claro! Aqui está o código ajustado para incluir um ícone personalizado do LinkedIn com o seu link:
-<p align="left">
+<!-- Botões -->
+<p style="display: flex; gap: 10px; align-items: center;">
     <a href="https://github.com/MarioGuilherme26?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -30,60 +28,50 @@ Claro! Aqui está o código ajustado para incluir um ícone personalizado do Lin
     </a>
 </p>
 
----
+<hr style="border: none;">
 
-### 🤖 Linguagens e Tecnologias
+<!-- Linguagens e Tecnologias -->
+<h3>🤖 Linguagens e Tecnologias</h3>
+<div style="display: flex; gap: 10px;">
+    <img 
+        alt="HTML"
+        title="HTML" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
-   <img 
-     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
- />
+<hr style="border: none;">
 
- ---
- 
- ### 📊 Estatísticas
-
-<img 
-    style="margin-right: 10px;" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme26&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-     
-          
-    
-
+<!-- Estatísticas -->
+<h3>📊 Estatísticas</h3>
+<div style="display: flex; gap: 10px;">
+    <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme26&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</div>
